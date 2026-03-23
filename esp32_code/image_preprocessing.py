@@ -1,3 +1,12 @@
+# ---------------------------------------------------------
+# ESP32 Project: AI Rock-Paper-Scissors
+# Author: Dhruv Rawat
+# 
+# Citations/Collaborations:
+# - Base camera/networking logic provided by ENMGT 5400 course materials.
+# - AI debugging, OpenCV threading logic, and model architecture 
+#   optimizations developed with the assistance of Google Gemini.
+# ---------------------------------------------------------
 '''
 This module provides a variety of preprocessing functions for bitmaps designed to run on the ESP-32 Micropython environment.   
 
