@@ -1,4 +1,4 @@
-# Project 4: Rock-Paper-Scissors Live CNN Inference
+# ESP32 Project: Rock-Paper-Scissors Live CNN Inference
 **ENMGT 5400 - AI for Engineering Managers**
 
 ## Executive Summary
