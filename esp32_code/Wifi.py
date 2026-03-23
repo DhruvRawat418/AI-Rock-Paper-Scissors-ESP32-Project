@@ -1,4 +1,12 @@
-
+# ---------------------------------------------------------
+# ESP32 Project: AI Rock-Paper-Scissors
+# Author: Dhruv Rawat
+# 
+# Citations/Collaborations:
+# - Base camera/networking logic provided by ENMGT 5400 course materials.
+# - AI debugging, OpenCV threading logic, and model architecture 
+#   optimizations developed with the assistance of Google Gemini.
+# ---------------------------------------------------------
 # The MIT License (MIT)
 #
 # Copyright (c) Sharil Tumin
